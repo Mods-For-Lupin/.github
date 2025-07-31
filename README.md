@@ -1,1 +1,0 @@
-"Mods-For-Lupin", as a GitHub organization, hosts the source code for mods created by [Jason13Official](https://www.curseforge.com/members/jason13official) for [Lupin](https://www.curseforge.com/members/lupin) to publish to CurseForge and Modrinth.
