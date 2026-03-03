@@ -1,2 +1,1 @@
-# .github
-public profile
+# Mods for Minecraft
