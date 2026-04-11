@@ -1,4 +1,4 @@
-## Mods For Minecraft
+[**Mods-For-Lupin**](https://github.com/Mods-For-Lupin) holds the source code of mods created for [Lupin](https://www.curseforge.com/members/lupin/projects) by [Jason13](https://www.curseforge.com/members/jason13official/projects)
 
 <!--
 
